@@ -23,7 +23,7 @@ I'am a front-end developer maninly focusing in programing languages like JavaScr
 - A package to creating cool math animation for educational purpose (in early stage)
 
 #### web projects
-- A [hamburguer website]() made in Next.js framework
+- A [hamburguer website](https://my-burger-fawn.vercel.app/) made in Next.js framework
 
 #### Physics research publications
 - [Gauge Miura and Bäcklund transformations for generalized An-KdV hierarchies](https://iopscience.iop.org/article/10.1088/1751-8121/ac2718)
