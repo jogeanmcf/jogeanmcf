@@ -20,6 +20,7 @@ I'am a front-end developer maninly focusing in programing languages like JavaScr
 #### Flutter projects
 - A classic [tetris game](https://github.com/jogeanmcf/tetris_game) with modern cool UI 
 - An app for searching papers in [arxiv](https://github.com/jogeanmcf/r_xiv) repository
+- A [YouTube Muisic UI clone](https://github.com/jogeanmcf/ytmusic_clone) 
 - A package to creating cool math animation for educational purpose (in early stage)
 
 #### web projects
